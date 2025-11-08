@@ -1,6 +1,6 @@
 <!-- Contador de visitas -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Wesley-Martinss&label=Profile%20views&color=0e75b6&style=flat" alt="Wesley-Martinss" /> 
+  <img src="https://komarev.com/ghpvc/?username=Wesley-Martinss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
 
 <!-- Cabeçalho com animação -->
@@ -27,7 +27,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
@@ -43,19 +43,19 @@
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Oracle_SQL_Developer_logo.svg" alt="Oracle SQL" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="65" height="65" />
       <br>Oracle SQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" alt="Bootstrap" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="65" height="65" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="65" height="65" />
       <br>CSS
     </td>
   </tr>
@@ -65,13 +65,10 @@
 <!-- Estatísticas do GitHub -->
 <div align="center">
   <picture>
-    <!-- Modo escuro -->
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://github-readme-stats.vercel.app/api?username=Wesley-Martinss&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true">
-    <!-- Modo claro -->
     <source media="(prefers-color-scheme: light)" 
       srcset="https://github-readme-stats.vercel.app/api?username=Wesley-Martinss&layout=compact&show_icons=true&count_private=true&hide_border=true">
-    <!-- Fallback -->
     <img width="49%" height="auto" 
       src="https://github-readme-stats.vercel.app/api?username=Wesley-Martinss&theme=tokyonight&layout=compact&show_icons=true&count_private=true&hide_border=true" 
       alt="GitHub Stats">
@@ -85,14 +82,5 @@
     <img width="37%" height="auto" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Martinss&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" 
       alt="Top Languages">
-  </picture>
-</div>
-
-<!-- Animação Snake -->
-<div style="text-align: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Wesley-Martinss/Wesley-Martinss/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Wesley-Martinss/Wesley-Martinss/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Wesley-Martinss/Wesley-Martinss/blob/output/ocean.gif" />
   </picture>
 </div>
